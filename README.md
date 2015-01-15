@@ -12,5 +12,5 @@
 
 ###Document :
 
-[Vision](https://docs.google.com/document/d/1aSwkwke62lHJxW_9maOYtKKguESJkFAJICF1Mj7IJt4/edit)
-[UseCase](https://docs.google.com/document/d/1c_HRyCrCDun49kTKZH_ZWilp8NmeRYyfKT0s4P6mpSw/edit?usp=sharing)
+- [Vision](https://docs.google.com/document/d/1aSwkwke62lHJxW_9maOYtKKguESJkFAJICF1Mj7IJt4/edit)
+- [UseCase](https://docs.google.com/document/d/1c_HRyCrCDun49kTKZH_ZWilp8NmeRYyfKT0s4P6mpSw/edit?usp=sharing)
